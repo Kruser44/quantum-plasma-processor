@@ -49,6 +49,6 @@ GitHub repository: https://github.com/yourusername/phase-locked-qpu
 ## 📬 Contact
 
 Questions or collaboration ideas?  
-Email: `tesla.nikita@protonmail.com`
+Email: `tesla0605@gmail.com`
 
 ---
