@@ -39,7 +39,7 @@ If this repository contributes to your work, please cite it as:
 
 ```
 Tesla, N. (2025). *Phase-Locked Quantum-Plasma Processor: Normalized Hamiltonian and Stability Analysis*.  
-GitHub repository: https://github.com/yourusername/phase-locked-qpu
+GitHub repository: https://github.com/yourusername/phase-locked-qpu](https://github.com/Kruser44/quantum-plasma-processor.git
 ```
 
 (Once published, a proper arXiv/Zenodo citation will be added.)
