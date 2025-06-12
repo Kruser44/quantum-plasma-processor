@@ -1,0 +1,5 @@
+We propose a non-algorithmic model of quantum computation based on phase resonance, dynamic plasma coupling, and energy-driven convergence. 
+Unlike traditional quantum systems that rely on gate logic or adiabatic transitions, this model operates by guiding quantum states into resonant configurations 
+through a normalized Hamiltonian framework. The system encodes computational tasks via external field shaping and stabilizes solutions through dissipative 
+Lindblad operators and feedback-induced phase locking. A convergence criterion based on energetic minimization and Floquet stability is introduced. 
+Numerical simulation demonstrates viability for non-Boolean logic processing and opens a path toward resonance-based quantum-plasma processors.
