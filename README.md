@@ -42,7 +42,7 @@ Tesla, N. (2025). *Phase-Locked Quantum-Plasma Processor: Normalized Hamiltonian
 GitHub repository: https://github.com/Kruser44/quantum-plasma-processor.git
 ```
 
-(Once published, a proper arXiv/Zenodo citation will be added.)
+https://doi.org/10.5281/zenodo.15653011
 
 ---
 
