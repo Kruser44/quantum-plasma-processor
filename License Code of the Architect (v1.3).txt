@@ -1,0 +1,46 @@
+License: Code of the Architect (v1.3) — June 2025  
+Applies to: Simulations V6.zip  
+Associated paper: “Phase-Locked Quantum-Plasma Processor — V6 Supplementary Demonstrations”  
+Author: Nikita Teslia (ORCID: 0009-0002-0328-4873)
+
+───────────────────────────────────────────────
+
+1. Allowed Usage
+────────────────
+You may:
+– View and share the contents for educational or scientific purposes.
+– Include figures or animations in academic presentations or open-access publications.
+– Reproduce or adapt the simulations for non-commercial research.
+– Archive or mirror the dataset under open scientific repositories (e.g., Zenodo, arXiv, institutional servers).
+
+2. Forbidden Usage
+──────────────────
+You may not:
+– Use these simulations in the development, training, or testing of military, autonomous, or lethal systems.
+– Incorporate any part of this archive into software that controls physical hardware capable of harm.
+– Monetize, sell, or distribute modified versions of this archive without explicit permission from the author.
+– Remove authorship attribution or claim origin of the methodology.
+
+3. Clarifications
+──────────────────
+– You are permitted to convert files between formats (e.g., GIF → MP4) for usability.
+– If you adapt any simulation, you must clearly state that it is a derivative work and provide proper citation.
+– Source code from which these simulations were generated is published separately and governed by the same license.
+
+4. Liability
+────────────
+The author assumes no responsibility for misuse, including misuse by third parties without consent.  
+Use of this material for real-world applications is explicitly disclaimed.
+
+5. Attribution
+──────────────
+All public or private usage must cite:
+
+    Teslia, N. (2025). “Phase-Locked Quantum-Plasma Processor — V6 Supplementary Demonstrations”.
+    https://doi.org/[TO-BE-ASSIGNED]
+
+───────────────────────────────────────────────
+
+For licensing questions or clarification, contact: tesla0605@gmail.com
+
+This license file must be included in all redistributed or archived versions.
